@@ -1,0 +1,13 @@
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura Condicionais\bin\Debug\netcoreapp3.1\Estrutura Condicionais.exe
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura Condicionais\bin\Debug\netcoreapp3.1\Estrutura Condicionais.deps.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura Condicionais\bin\Debug\netcoreapp3.1\Estrutura Condicionais.runtimeconfig.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura Condicionais\bin\Debug\netcoreapp3.1\Estrutura Condicionais.runtimeconfig.dev.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura Condicionais\bin\Debug\netcoreapp3.1\Estrutura Condicionais.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura Condicionais\bin\Debug\netcoreapp3.1\Estrutura Condicionais.pdb
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura Condicionais\obj\Debug\netcoreapp3.1\Estrutura Condicionais.csprojAssemblyReference.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura Condicionais\obj\Debug\netcoreapp3.1\Estrutura Condicionais.AssemblyInfoInputs.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura Condicionais\obj\Debug\netcoreapp3.1\Estrutura Condicionais.AssemblyInfo.cs
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura Condicionais\obj\Debug\netcoreapp3.1\Estrutura Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura Condicionais\obj\Debug\netcoreapp3.1\Estrutura Condicionais.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura Condicionais\obj\Debug\netcoreapp3.1\Estrutura Condicionais.pdb
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura Condicionais\obj\Debug\netcoreapp3.1\Estrutura Condicionais.genruntimeconfig.cache
